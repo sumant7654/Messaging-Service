@@ -1,5 +1,5 @@
 FROM ubuntu:latest
-FROM openjdk:21-alpine
+FROM openjdk:21
 
 EXPOSE 8083
 
